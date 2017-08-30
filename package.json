@@ -25,10 +25,63 @@
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1",
     "expose-loader": "^0.7.3",
+<<<<<<< HEAD
     "webpack": "^3.4.1"
   },
   "dependencies": {
     "phaser-ce": "^2.8.3",
     "webfontloader": "^1.6.28"
+=======
+    "has-flag": "^2.0.0",
+    "ts-loader": "^2.2.2",
+    "typescript": "^2.4.1",
+    "webpack": "^2.6.1"
+  },
+  "dependencies": {
+    "acorn-dynamic-import": "^2.0.2",
+    "ajv": "^5.2.2",
+    "ajv-keywords": "^2.1.0",
+    "babel-helpers": "^6.24.1",
+    "babel-plugin-transform-strict-mode": "^6.24.1",
+    "browser-sync-client": "^2.5.1",
+    "browser-sync-ui": "^0.6.3",
+    "chokidar": "^1.7.0",
+    "connect": "^3.6.3",
+    "convert-source-map": "^1.5.0",
+    "detect-indent": "^5.0.0",
+    "dev-ip": "^1.0.1",
+    "easy-extender": "^2.3.2",
+    "eazy-logger": "^3.0.2",
+    "emitter-steward": "^1.0.0",
+    "find-cache-dir": "^1.0.0",
+    "immutable": "^3.8.1",
+    "interpret": "^1.0.3",
+    "jsesc": "^2.5.1",
+    "json5": "^0.5.1",
+    "loader-runner": "^2.3.0",
+    "loader-utils": "^1.1.0",
+    "lodash": "^4.17.4",
+    "memory-fs": "^0.4.1",
+    "micromatch": "^3.0.4",
+    "mkdirp": "^0.5.1",
+    "node-libs-browser": "^2.0.0",
+    "opn": "^5.1.0",
+    "phaser-ce": "^2.8.0",
+    "portscanner": "^2.1.1",
+    "private": "^0.1.7",
+    "qs": "^6.5.0",
+    "resp-modifier": "^6.0.2",
+    "rx": "^4.1.0",
+    "serve-index": "^1.9.0",
+    "serve-static": "^1.12.4",
+    "server-destroy": "^1.0.1",
+    "slash": "^1.0.0",
+    "socket.io": "^2.0.3",
+    "source-map": "^0.5.7",
+    "trim-right": "^1.0.1",
+    "ua-parser-js": "^0.7.14",
+    "webfontloader": "^1.6.28",
+    "yargs": "^8.0.2"
+>>>>>>> typescript
   }
 }

@@ -25,13 +25,11 @@
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1",
     "expose-loader": "^0.7.3",
-<<<<<<< HEAD
     "webpack": "^3.4.1"
   },
   "dependencies": {
     "phaser-ce": "^2.8.3",
-    "webfontloader": "^1.6.28"
-=======
+    "webfontloader": "^1.6.28",
     "has-flag": "^2.0.0",
     "ts-loader": "^2.2.2",
     "typescript": "^2.4.1",
@@ -82,6 +80,5 @@
     "ua-parser-js": "^0.7.14",
     "webfontloader": "^1.6.28",
     "yargs": "^8.0.2"
->>>>>>> typescript
   }
 }
